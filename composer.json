@@ -1,7 +1,7 @@
 {
-  "name": "laravel-frontend-presets/tailwindcss",
-  "description": "Laravel frontend preset for Tailwind CSS",
-  "keywords": ["laravel", "preset", "tailwindcss"],
+  "name": "laravel loving tailwindcss",
+  "description": "that's awesome, it supports sass :)",
+  "keywords": ["laravel", "preset", "tailwindcss", "zgang"],
   "license": "MIT",
   "require": {
     "laravel/framework": "^7.0",
